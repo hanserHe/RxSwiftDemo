@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2BC704CD-1F4B-4065-B7AC-7C806DE58CCE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "638B7218-E41B-4D06-8F62-CFA72029F364"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RXSwiftDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "setupUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "638B7218-E41B-4D06-8F62-CFA72029F364 - 297b0ea8bd6d9118"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, Swift.String, __C.UITableViewCell) -&gt; () in RXSwiftDemo.ViewController.setupUI() -&gt; ()"
+                  moduleName = "RXSwiftDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hepengfei/Project/RXSwiftDemo/RXSwiftDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "638B7218-E41B-4D06-8F62-CFA72029F364 - 77763f6d50decd19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RXSwiftDemo.ViewController.setupUI() -&gt; ()"
+                  moduleName = "RXSwiftDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hepengfei/Project/RXSwiftDemo/RXSwiftDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "638B7218-E41B-4D06-8F62-CFA72029F364 - 297b0ea8bd6d913f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int, Swift.String, __C.UITableViewCell) -&gt; () in RXSwiftDemo.ViewController.setupUI() -&gt; ()"
+                  moduleName = "RXSwiftDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hepengfei/Project/RXSwiftDemo/RXSwiftDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1886C28B-0014-44DC-9F35-99E375F872AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RXSwiftDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "setupUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1886C28B-0014-44DC-9F35-99E375F872AC - 77763f6d50deccb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RXSwiftDemo.ViewController.setupUI() -&gt; ()"
+                  moduleName = "RXSwiftDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hepengfei/Project/RXSwiftDemo/RXSwiftDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1328">
+               </Location>
+               <Location
+                  uuid = "1886C28B-0014-44DC-9F35-99E375F872AC - 77763f6d50deccb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RXSwiftDemo.ViewController.setupUI() -&gt; ()"
+                  moduleName = "RXSwiftDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hepengfei/Project/RXSwiftDemo/RXSwiftDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
